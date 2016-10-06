@@ -1,0 +1,8 @@
+msin=tmp.MS
+msout=.
+steps=[pystep]
+
+pystep.type=PythonDPPP
+
+pystep.python.module=dpstefcal
+pystep.python.class=DPStefcal
